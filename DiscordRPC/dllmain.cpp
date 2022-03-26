@@ -12,7 +12,7 @@
 #include <windows.h>
 #include <chrono>
 
-#include "library/discord.h"
+#include "include/discord/discord.h"
 
 #define DLLEXPORT __declspec(dllexport)
 #include "plugin_abi.h" // Make sure you copy over plugin_abi.h from the NorthstarLauncher project before building

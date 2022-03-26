@@ -21,61 +21,61 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="library\voice_manager.h">
+    <ClInclude Include="include\discord\voice_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\achievement_manager.h">
+    <ClInclude Include="include\discord\achievement_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\activity_manager.h">
+    <ClInclude Include="include\discord\activity_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\application_manager.h">
+    <ClInclude Include="include\discord\application_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\core.h">
+    <ClInclude Include="include\discord\core.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\discord.h">
+    <ClInclude Include="include\discord\discord.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\event.h">
+    <ClInclude Include="include\discord\event.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\ffi.h">
+    <ClInclude Include="include\discord\ffi.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\framework.h">
+    <ClInclude Include="include\discord\framework.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\image_manager.h">
+    <ClInclude Include="include\discord\image_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\lobby_manager.h">
+    <ClInclude Include="include\discord\lobby_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\network_manager.h">
+    <ClInclude Include="include\discord\network_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\overlay_manager.h">
+    <ClInclude Include="include\discord\overlay_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\pch.h">
+    <ClInclude Include="include\discord\pch.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\relationship_manager.h">
+    <ClInclude Include="include\discord\relationship_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\storage_manager.h">
+    <ClInclude Include="include\discord\storage_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\store_manager.h">
+    <ClInclude Include="include\discord\store_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\types.h">
+    <ClInclude Include="include\discord\types.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
-    <ClInclude Include="library\user_manager.h">
+    <ClInclude Include="include\discord\user_manager.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
     <ClInclude Include="pch.h">
@@ -98,49 +98,49 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="library\core.cpp">
+    <ClCompile Include="include\discord\core.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\application_manager.cpp">
+    <ClCompile Include="include\discord\application_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\activity_manager.cpp">
+    <ClCompile Include="include\discord\activity_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\achievement_manager.cpp">
+    <ClCompile Include="include\discord\achievement_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\voice_manager.cpp">
+    <ClCompile Include="include\discord\voice_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\user_manager.cpp">
+    <ClCompile Include="include\discord\user_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\types.cpp">
+    <ClCompile Include="include\discord\types.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\store_manager.cpp">
+    <ClCompile Include="include\discord\store_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\storage_manager.cpp">
+    <ClCompile Include="include\discord\storage_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\relationship_manager.cpp">
+    <ClCompile Include="include\discord\relationship_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\overlay_manager.cpp">
+    <ClCompile Include="include\discord\overlay_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\network_manager.cpp">
+    <ClCompile Include="include\discord\network_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\lobby_manager.cpp">
+    <ClCompile Include="include\discord\lobby_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\image_manager.cpp">
+    <ClCompile Include="include\discord\image_manager.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
-    <ClCompile Include="library\pch.cpp">
+    <ClCompile Include="include\discord\pch.cpp">
       <Filter>Source Files\sdk</Filter>
     </ClCompile>
   </ItemGroup>
